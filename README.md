@@ -1,5 +1,6 @@
 # Cadastro_imobiliario_MVP0
-Meu primeiro projeto em Python - Avaliação Campinas Tech Talents -- Enforce
+Meu primeiro projeto em Python - Avaliação Campinas Tech Talents -- Enforce.
+
 Este repositório tem como objetivo mostrar brevemente o uso da linguaguem de programação Python, que tem inúmeros recursos, inclusive para o
 desenvolvimento de aplicações web. Seguindo a forte tendência de mercado, foi criado
 para demonstração da linguagem de programação, um software para gerenciamento imobiliário
