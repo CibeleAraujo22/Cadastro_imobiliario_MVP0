@@ -2,7 +2,7 @@
 #Professor: Jeferson Leal
 #Fazer os seguintes comandos para funcionar:
 #No Windows: set FLASK_APP=app.py
-#Em seguidar executar no terminal (Com o ambiente virtual ativado): flask run
+#Em seguida executar no terminal (Com o ambiente virtual ativado): flask run
 
 from flask import Flask, jsonify, request
 from flask_sqlalchemy import SQLAlchemy
